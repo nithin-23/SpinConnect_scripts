@@ -1,0 +1,2387 @@
+[
+    {
+        "_id": "RPT170835070d855decd",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL1711225181c571fb1"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL171122533c280511e"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL171122534ddcb39f1"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL171122534234df312"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL1711225358f3c05f7"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL17112253625b3b63f"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL171122537a5b6edb8"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL171122540979eefa8"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL171122541a7e99bc7"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL171122542f7d2aacd"
+            },
+            {
+                "sortOrder": 10,
+                "columnId": "COL171122543a0b56ed4"
+            },
+            {
+                "sortOrder": 11,
+                "columnId": "COL17112254481dd4c5e"
+            }
+        ],
+        "createdAt": {
+            "$date": "2024-12-08T17:08:35.070Z"
+        },
+        "departmentId": "ringframe",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "daily_summary",
+        "name": "pms_rf_daily_summary",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2024-12-08T17:08:35.070Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT1708350776945e1b8",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL1202185358a703c3c"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL1202185367cd37315"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL12021853740637458"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL1202185389ee23f87"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL1202185395a209106"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL120218540bd977643"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL12021854086c7957d"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL120218541b6a25eaf"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL120218542a4617ab6"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL120218543bc08dd9f"
+            },
+            {
+                "sortOrder": 10,
+                "columnId": "COL1202185447c0db08b"
+            },
+            {
+                "sortOrder": 11,
+                "columnId": "COL1202185447ed79401"
+            },
+            {
+                "sortOrder": 12,
+                "columnId": "COL1537280958f626689"
+            }
+        ],
+        "createdAt": {
+            "$date": "2024-12-08T17:08:35.077Z"
+        },
+        "departmentId": "ringframe",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "doff",
+        "name": "pms_rf_doff",
+        "roleId": "root",
+        "type": "doff",
+        "updatedAt": {
+            "$date": "2024-12-08T17:08:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT233736108392aa504",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL232210676b9f105e8"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL232210677bc210c5b"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL2322106774ff8f6d0"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL232210677b0a3c6d6"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL232210678aee707a3"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL2322106780acd36d7"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL232210679bfc06497"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL23221067971d0bf83"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL2322106809b6e9afa"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL232210680b2d088d2"
+            },
+            {
+                "sortOrder": 10,
+                "columnId": "COL232210680c1986db6"
+            },
+            {
+                "sortOrder": 11,
+                "columnId": "COL232210681f61d815f"
+            },
+            {
+                "sortOrder": 12,
+                "columnId": "COL232210681338f4a86"
+            },
+            {
+                "sortOrder": 13,
+                "columnId": "COL2322106828cedff5c"
+            },
+            {
+                "sortOrder": 14,
+                "columnId": "COL2322106823ed07ee6"
+            },
+            {
+                "sortOrder": 15,
+                "columnId": "COL232210683fb4adb20"
+            },
+            {
+                "sortOrder": 16,
+                "columnId": "COL232210683b297751a"
+            },
+            {
+                "sortOrder": 17,
+                "columnId": "COL2322106832925e191"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-01-04T18:07:36.107Z"
+        },
+        "departmentId": "speedframe",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "production",
+        "moduleId": "pms",
+        "name": "pms_sf_production",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2025-01-04T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT1708251773944e1b6",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL23221069052acb92c"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL23221069003754f26"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL23221069180493752"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL2322106911fc81d51"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL2322106917a9dee5c"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL23221069138ecce8b"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL2322106923eed2114"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL23221069242cb7bcf"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL232210693c951b623"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL23221069320c56484"
+            },
+            {
+                "sortOrder": 10,
+                "columnId": "COL232210693861569d2"
+            },
+            {
+                "sortOrder": 11,
+                "columnId": "COL232210694f9bb2855"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-01-04T17:08:35.077Z"
+        },
+        "departmentId": "drawframefinisher",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "production",
+        "name": "pms_drawframe_finisher_production",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2025-01-04T17:08:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT1741353766945f1a8",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL23221068452f05c1b"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL23221068400329413"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL23221068482cb88f6"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL232210685b08be4ab"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL232210685827132fb"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL23221068658db3804"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL232210687b6d9b611"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL232210687843e0383"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL23221068733fa5ec4"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL232210688bb1d4fa9"
+            },
+            {
+                "sortOrder": 10,
+                "columnId": "COL232210688d17e8cc8"
+            },
+            {
+                "sortOrder": 11,
+                "columnId": "COL232210689a9be9196"
+            }
+        ],
+        "createdAt": {
+            "$date": "2024-01-04T17:08:35.077Z"
+        },
+        "departmentId": "drawframebreaker",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "production",
+        "name": "pms_drawframe_breaker_production",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2024-01-04T17:08:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT2713450476949b1b2",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL23221069937c444e9"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL2322107002c28b0e7"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL232210700b8378dc4"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL2322107008dbc3ff1"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL232210701c348e89c"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL2322107017a8b2ef0"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL2322107027c6f0827"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL23221070221094b4c"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL2322107039140f5b6"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL23221070464dbe95f"
+            }
+        ],
+        "createdAt": {
+            "$date": "2024-01-05T17:08:35.077Z"
+        },
+        "departmentId": "comber",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "production",
+        "name": "pms_comber_production",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2024-01-05T17:08:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT1709350556945e1c5",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL23221070535fdb738"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL232210705d24cea7b"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL232210706a710f69c"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL23221070696487d06"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL232210707c43c1e11"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL2322107081d6c4554"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL232210708ea30b1b5"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL2322107096ba420ae"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL23221070915ed96c8"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL232210710cf75ed12"
+            }
+        ],
+        "createdAt": {
+            "$date": "2024-01-04T17:08:35.077Z"
+        },
+        "departmentId": "carding",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "production",
+        "name": "pms_carding_production",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2024-01-04T17:08:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT2809350334945e1g8",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL2322106954b4e6602"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL23221069510bfcdeb"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL232210695017833f8"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL2322106964d04a4a1"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL2322106969106a7da"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL232210697dd3fb8c4"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL232210697fc2dfd14"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL2322106978b629735"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL232210698cb6c95ee"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL232210698b7093087"
+            },
+            {
+                "sortOrder": 10,
+                "columnId": "COL2322106994dcc42d4"
+            }
+        ],
+        "createdAt": {
+            "$date": "2024-01-04T17:08:35.077Z"
+        },
+        "departmentId": "lapformer",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "production",
+        "name": "pms_lap_fomer_production",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2024-01-04T17:08:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT223735118392ab274",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL1202184370b40ffd0"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL120218470c522f801"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL120218471664670e9"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL1202184715fecb470"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL1202184729d71888f"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL1202184722f73efa3"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL120218473b2fc402a"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL12021847359c7132c"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL120218474ad1dad65"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL12021847426658bce"
+            },
+            {
+                "sortOrder": 10,
+                "columnId": "COL1202184741cab143c"
+            },
+            {
+                "sortOrder": 11,
+                "columnId": "COL12021847511b80c66"
+            },
+            {
+                "sortOrder": 12,
+                "columnId": "COL1202184766f99af26"
+            },
+            {
+                "sortOrder": 13,
+                "columnId": "COL120218476ac5f14eb"
+            },
+            {
+                "sortOrder": 14,
+                "columnId": "COL120218477d88a1b76"
+            },
+            {
+                "sortOrder": 15,
+                "columnId": "COL12021847878a708eb"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-01-04T18:07:36.107Z"
+        },
+        "departmentId": "ringframe",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "production",
+        "moduleId": "pms",
+        "name": "pms_rf_production",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2025-01-04T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT233526111292aa544",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL153728093a2eb8bcf"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL120218529e8128d62"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL120218530fa30fcad"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL12021853142c46a00"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL120218531f4ea6d3b"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL12021853270072df5"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL120218533419829a7"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL12021853433523b59"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL120218535d56a88cb"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-01-04T18:07:36.107Z"
+        },
+        "departmentId": "speedframe",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "doff",
+        "moduleId": "pms",
+        "name": "pms_sf_doff",
+        "roleId": "root",
+        "type": "doff",
+        "updatedAt": {
+            "$date": "2025-01-04T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT1718350776657g3b8",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL124432483fabb277c"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL1244324845208322f"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL124432484d77823d0"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL12443248545e42646"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL0152541110a34ccdf"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL124432485237678b5"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-01-22T12:08:35.077Z"
+        },
+        "departmentId": "ringframe",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "stoppages",
+        "name": "pms_rf_stoppages",
+        "roleId": "root",
+        "type": "stoppages",
+        "updatedAt": {
+            "$date": "2025-01-22T17:13:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT1701130776657f35",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL1244324867311151d"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL1244324861dd279d1"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL1244324861d6c7cd9"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL1244324878e1fbb30"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL01525411355344f8c"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL124432487b440241e"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-01-22T12:08:35.077Z"
+        },
+        "departmentId": "speedframe",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "stoppages",
+        "name": "pms_sf_stoppages",
+        "roleId": "root",
+        "type": "stoppages",
+        "updatedAt": {
+            "$date": "2025-01-22T17:13:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT1819350676657a3c8",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL124432489965b806d"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL12443249093ace909"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL1244324900cc9424d"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL124432491e84965d0"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL015254113101c670e"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL124432491f9c23bad"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-01-22T12:08:35.077Z"
+        },
+        "departmentId": "drawframefinisher",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "stoppages",
+        "name": "pms_drawframe_finisher_stoppages",
+        "roleId": "root",
+        "type": "stoppages",
+        "updatedAt": {
+            "$date": "2025-01-22T17:13:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT2010451761657a3b8",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL124432487e8910579"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL124432488b50e91df"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL12443248822c8cc46"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL124432489288a7c12"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL0152541133a2d5b4d"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL1244324899b3038b7"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-01-22T12:08:35.077Z"
+        },
+        "departmentId": "drawframebreaker",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "stoppages",
+        "name": "pms_drawframe_breaker_stoppages",
+        "roleId": "root",
+        "type": "stoppages",
+        "updatedAt": {
+            "$date": "2025-01-22T17:13:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT2013350736657d2b0",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL1244324913d5dcdc4"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL1244324915d25e0ba"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL124432492a99af1eb"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL1244324929098ecc0"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL015254113b75e8742"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL1244324924ff21516"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-01-22T12:08:35.077Z"
+        },
+        "departmentId": "lapformer",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "stoppages",
+        "name": "pms_lap_fomer_stoppages",
+        "roleId": "root",
+        "type": "stoppages",
+        "updatedAt": {
+            "$date": "2025-01-22T17:13:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT2023240736657c2b0",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL124432495e61ccaf0"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL124432495501ad0d9"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL1244324963393953a"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL1244324963ee297be"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL015517827c5efacd4"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL12443249654f3a56e"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-01-22T12:08:35.077Z"
+        },
+        "departmentId": "carding",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "stoppages",
+        "name": "pms_carding_stoppages",
+        "roleId": "root",
+        "type": "stoppages",
+        "updatedAt": {
+            "$date": "2025-01-22T17:13:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT2020242735657h2b0",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL1244324934b297309"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL124432493569bdb03"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL124432493fb060a5d"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL124432494bcd68750"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL015517827601ec5d3"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL1244324949f09c711"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-01-22T12:08:35.077Z"
+        },
+        "departmentId": "comber",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "stoppages",
+        "name": "pms_comber_stoppages",
+        "roleId": "root",
+        "type": "stoppages",
+        "updatedAt": {
+            "$date": "2025-01-22T17:13:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT2023240743206c2b0",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL104356410dbbe956e"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL104356411c79e1673"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL104356411914f2b69"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL1043564118db5cc0a"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL104356411e539d053"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL104356412d71e742f"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL1043564127761fce9"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-01-22T12:08:35.077Z"
+        },
+        "departmentId": "carding",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "breakages",
+        "name": "pms_carding_breakages",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2025-01-22T17:13:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT2113240733404g2e0",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL10435640799c6b9f6"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL1043564079e103e62"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL10435640725c0a842"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL1043564083f0844ac"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL1043564080c545ff4"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL1043564081c70df6b"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL104356409518f44ef"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL104356409b071c502"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL1043564096aa28238"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL1043564093274f2e6"
+            },
+            {
+                "sortOrder": 10,
+                "columnId": "COL1043564095e38f68a"
+            },
+            {
+                "sortOrder": 11,
+                "columnId": "COL1043564091f4d5a56"
+            },
+            {
+                "sortOrder": 12,
+                "columnId": "COL1043564100fd77841"
+            },
+            {
+                "sortOrder": 13,
+                "columnId": "COL1043564103510ef71"
+            },
+            {
+                "sortOrder": 14,
+                "columnId": "COL104356410edbbb77a"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-01-24T12:08:35.077Z"
+        },
+        "departmentId": "drawframebreaker",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "breakages",
+        "name": "pms_drawframe_breaker_breakages",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2025-01-24T17:13:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT2011340713404f2g9",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL1440485676d057c2c"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL144048567ff480033"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL1440485671cf1b684"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-02-04T12:08:35.077Z"
+        },
+        "departmentId": "speedframe",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "breakages",
+        "name": "pms_speedframe_breakages",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2025-02-04T17:13:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT2110233733404g2a6",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL144048568ec2a6266"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL144048568756f6aa1"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL144048568500fe7b2"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL1440485688dac6e0a"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL144048569a708d232"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL14404856955086af1"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL144048569257d4fe4"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL144048569c3da8871"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL1440485694bcdda60"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL14404857034af16bd"
+            },
+            {
+                "sortOrder": 10,
+                "columnId": "COL14404857063aaf9bf"
+            },
+            {
+                "sortOrder": 11,
+                "columnId": "COL1440485700f36736a"
+            },
+            {
+                "sortOrder": 12,
+                "columnId": "COL1440485709244623e"
+            },
+            {
+                "sortOrder": 13,
+                "columnId": "COL1440485712e316df5"
+            },
+            {
+                "sortOrder": 14,
+                "columnId": "COL1440485710ac5ee04"
+            },
+            {
+                "sortOrder": 15,
+                "columnId": "COL144048571d81b18fb"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-02-04T12:08:35.077Z"
+        },
+        "departmentId": "drawframefinisher",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "breakages",
+        "name": "pms_drawframe_finisher_breakages",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2025-02-04T17:13:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT2131261545414a8e5",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL1440485719059ebf8"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL14404857200f11c12"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL1440485728bedd285"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL14404857227f7de09"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL144048572a8c0355d"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-02-04T12:08:35.077Z"
+        },
+        "departmentId": "lapformer",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "breakages",
+        "name": "pms_lapformer_breakages",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2025-02-04T17:13:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT2210293703404d7c6",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL14404857374139675"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL144048573eac13828"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL1440485739293df6f"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL1440485737e524b6c"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL1440485743f8bad85"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL1440485747714739a"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL1440485744398e822"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL14404857478b1fcce"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL1440485753678d6b1"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL1440485751021c6fe"
+            },
+            {
+                "sortOrder": 10,
+                "columnId": "COL1440485755664ff2c"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-02-04T12:08:35.077Z"
+        },
+        "departmentId": "comber",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "breakages",
+        "name": "pms_comber_breakages",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2025-02-04T17:13:35.077Z"
+        },
+        "userId": "root",
+        "moduleId": "pms"
+    },
+    {
+        "_id": "RPT1356075249488d2b2",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL1218191553498eb18"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL121819155d0db61a1"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL12181915515a59162"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL121819156413628b9"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL121819156f446284a"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL121819156274dc439"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL1218191565c814259"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL121819156dc55be85"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL1218191565afda110"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL1218191564e462932"
+            },
+            {
+                "sortOrder": 10,
+                "columnId": "COL121819156e5a7c65e"
+            },
+            {
+                "sortOrder": 11,
+                "columnId": "COL121819157146ce7e0"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-02-07T18:07:36.107Z"
+        },
+        "departmentId": "drawframebreaker",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "quality",
+        "moduleId": "qms",
+        "name": "qms_drawframe_breaker_quality",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2025-02-07T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT13560752429374c4e",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL121819157d0d97fa5"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL121819157dcaa6505"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL12181915718161209"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL12181915764283e24"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL121819157bec4c556"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL12181915705bce21d"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL121819158cb2d0755"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL1218191586d5ef825"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL121819158cfe9ca64"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL121819158f820ea5f"
+            },
+            {
+                "sortOrder": 10,
+                "columnId": "COL12181915815d4da08"
+            },
+            {
+                "sortOrder": 11,
+                "columnId": "COL121819158efb0fadc"
+            },
+            {
+                "sortOrder": 12,
+                "columnId": "COL121819158d0f49a80"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-02-07T18:07:36.107Z"
+        },
+        "departmentId": "drawframefinisher",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "quality",
+        "moduleId": "qms",
+        "name": "qms_drawframe_finisher_quality",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2025-02-07T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT13560752480a5f5c9",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL121819158252293c3"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL121819159ef798a77"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL1218191595e9698db"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL1218191598622c73f"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL121819159478607d3"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL121819159e4fe5357"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL121819159f1bdb3ee"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL121819159796fff6e"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL1218191593560516b"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL12181915925fa5046"
+            },
+            {
+                "sortOrder": 10,
+                "columnId": "COL1218191606d9d92da"
+            },
+            {
+                "sortOrder": 11,
+                "columnId": "COL1218191608431d2b3"
+            },
+            {
+                "sortOrder": 12,
+                "columnId": "COL1218191609a90096c"
+            },
+            {
+                "sortOrder": 13,
+                "columnId": "COL1218191607be44dde"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-02-07T18:07:36.107Z"
+        },
+        "departmentId": "carding",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "quality",
+        "moduleId": "qms",
+        "name": "qms_carding_quality",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2025-02-07T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT1356075257ff0fa05",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL1218191603a48beb3"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL121819160a7f399fd"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL1218191609a36c6ee"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL121819160155cfbce"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL121819160fb980196"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL12181916102b98829"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL121819161a935ecfc"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-02-07T18:07:36.107Z"
+        },
+        "departmentId": "comber",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "quality",
+        "moduleId": "qms",
+        "name": "qms_comber_quality",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2025-01-04T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT145444675d2275800",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL140305980cf289708"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL140305981fdd4414d"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL140305981fe0ba3d6"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL1403059825cb7b61d"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL1403059820d5ad548"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL140305983380f043f"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL140305983bf897f97"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL1403059830a091bca"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL1403059847800ab75"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL1403059846868234f"
+            },
+            {
+                "sortOrder": 10,
+                "columnId": "COL140305985cabffaea"
+            },
+            {
+                "sortOrder": 11,
+                "columnId": "COL14030598577c7176a"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-02-11T18:07:36.107Z"
+        },
+        "departmentId": "ringframe_ybs",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "doff",
+        "moduleId": "pms",
+        "name": "pms_ringframeybs_doff",
+        "roleId": "root",
+        "type": "doff",
+        "updatedAt": {
+            "$date": "2025-02-11T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT145444676e0ae8235",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL1420337937ff27a78"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL1420337942fb20f71"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL142033794f4f8cdcb"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL142033794b98af31c"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL142033794742e98f0"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL1420337941de43b6a"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL142033794d3a370f0"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL142033795c02d6cfa"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL1420337956b23980b"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL1420337958285159f"
+            },
+            {
+                "sortOrder": 10,
+                "columnId": "COL14203379554f061f5"
+            },
+            {
+                "sortOrder": 11,
+                "columnId": "COL142033795033a5f0c"
+            },
+            {
+                "sortOrder": 12,
+                "columnId": "COL14203379638a00f67"
+            },
+            {
+                "sortOrder": 13,
+                "columnId": "COL142033796c6d29fd7"
+            },
+            {
+                "sortOrder": 14,
+                "columnId": "COL1420337960417599d"
+            },
+            {
+                "sortOrder": 15,
+                "columnId": "COL1420337968b6654e2"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-02-11T18:07:36.107Z"
+        },
+        "departmentId": "ringframe_ybs",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "breakages_sidewise",
+        "moduleId": "pms",
+        "name": "pms_ringframe_sidewise_breakages",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2025-02-11T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT14544467610dc6203",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL142033796ba94d82f"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL142033796c16f1d64"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL14203379620493427"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL14203379704a909ba"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL14203379758ef3d12"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL1420337974557674b"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL14203379734078040"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL14203379876777773"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL1420337981602d1b3"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL1420337986226f6d6"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-02-11T18:07:36.107Z"
+        },
+        "departmentId": "ringframe_ybs",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "breakages_machinewise",
+        "moduleId": "pms",
+        "name": "pms_drawframe_finisher_quality",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2025-02-11T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT1036428393d101786",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL102738002b3cf79b2"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL10273800229dee88e"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL102738002b4eaf17b"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL10273800206435ca2"
+            },
+            {
+                "sortOrder": 4,
+                "columnId": "COL102738002dc9dcb45"
+            },
+            {
+                "sortOrder": 5,
+                "columnId": "COL102738002e3ede00c"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL102738002e6ca2e0a"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL10273800287ace3ec"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL1027380033dd0149b"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL1027380034cbd013f"
+            },
+            {
+                "sortOrder": 10,
+                "columnId": "COL1027380033f200049"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-02-28T18:07:36.107Z"
+        },
+        "departmentId": "ringframe_ybs",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "production",
+        "moduleId": "pms",
+        "name": "pms_ringframeybs_production",
+        "roleId": "root",
+        "type": "shift",
+        "updatedAt": {
+            "$date": "2025-02-28T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT11294748188531dfb",
+        "name": "Waste Mgmnt Ringframe production kgs",
+        "createdBy": "waste_mgmnt",
+        "isPublicShared": false,
+        "isEditable": true,
+        "departmentId": "ringframe",
+        "metricsType": null,
+        "type": "shift",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL120218474ad1dad65"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-03-13T05:59:47.482Z"
+        },
+        "updatedAt": {
+            "$date": "2025-03-13T05:59:47.482Z"
+        }
+    },
+    {
+        "_id": "RPT11302840844da9c4a",
+        "name": "Waste Mgmnt Speedfame production kgs",
+        "createdBy": "waste_mgmnt",
+        "isPublicShared": false,
+        "isEditable": true,
+        "departmentId": "speedframe",
+        "metricsType": null,
+        "type": "shift",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL232210680b2d088d2"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-03-13T06:00:28.408Z"
+        },
+        "updatedAt": {
+            "$date": "2025-03-13T06:00:28.408Z"
+        }
+    },
+    {
+        "_id": "RPT113051119426b8c4d",
+        "name": "Waste Mgmnt Drawframe Finisher production kgs",
+        "createdBy": "waste_mgmnt",
+        "isPublicShared": false,
+        "isEditable": true,
+        "departmentId": "drawframefinisher",
+        "metricsType": null,
+        "type": "shift",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL2322106923eed2114"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-03-13T06:00:51.121Z"
+        },
+        "updatedAt": {
+            "$date": "2025-03-13T06:00:51.121Z"
+        }
+    },
+    {
+        "_id": "RPT113108293a306d6c5",
+        "name": "Waste Mgmnt Comber production kgs",
+        "createdBy": "waste_mgmnt",
+        "isPublicShared": false,
+        "isEditable": true,
+        "departmentId": "comber",
+        "metricsType": null,
+        "type": "shift",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL2322107017a8b2ef0"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-03-13T06:01:08.294Z"
+        },
+        "updatedAt": {
+            "$date": "2025-03-13T06:01:08.294Z"
+        }
+    },
+    {
+        "_id": "RPT1131280660c9ded97",
+        "name": "Waste Mgmnt Lapformer production kgs",
+        "createdBy": "waste_mgmnt",
+        "isPublicShared": false,
+        "isEditable": true,
+        "departmentId": "lapformer",
+        "metricsType": null,
+        "type": "shift",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL2322106969106a7da"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-03-13T06:01:28.066Z"
+        },
+        "updatedAt": {
+            "$date": "2025-03-13T06:01:28.066Z"
+        }
+    },
+    {
+        "_id": "RPT1131490710ffab49c",
+        "name": "Waste Mgmnt Drawframe Breaker production kgs",
+        "createdBy": "waste_mgmnt",
+        "isPublicShared": false,
+        "isEditable": true,
+        "departmentId": "drawframebreaker",
+        "metricsType": null,
+        "type": "shift",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL232210687b6d9b611"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-03-13T06:01:49.071Z"
+        },
+        "updatedAt": {
+            "$date": "2025-03-13T06:01:49.071Z"
+        }
+    },
+    {
+        "_id": "RPT1132105715deabeb3",
+        "name": "Waste Mgmnt Carding production kgs",
+        "createdBy": "waste_mgmnt",
+        "isPublicShared": false,
+        "isEditable": true,
+        "departmentId": "carding",
+        "metricsType": null,
+        "type": "shift",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL2322107081d6c4554"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-03-13T06:02:10.572Z"
+        },
+        "updatedAt": {
+            "$date": "2025-03-13T06:02:10.572Z"
+        }
+    },
+    {
+        "_id": "RPT0322352696202aee9",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL29384b12e4dfaa562"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL30495c23f5eebc673"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL41506d34g6ffcd784"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL52617e45h7ggde895"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-03-04T18:07:36.107Z"
+        },
+        "departmentId": "ringframe",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "faults",
+        "moduleId": "pms",
+        "name": "pms_rf_faults",
+        "roleId": "root",
+        "type": "faults",
+        "updatedAt": {
+            "$date": "2025-03-04T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT03223526968cb6cab",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL073628009c0b7eec0"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL074837121b6c60cee"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL07483712105c64653"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL074837121695b59ba"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-03-04T18:07:36.107Z"
+        },
+        "departmentId": "speedframe",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "faults",
+        "moduleId": "pms",
+        "name": "pms_sf_faults",
+        "roleId": "root",
+        "type": "faults",
+        "updatedAt": {
+            "$date": "2025-03-04T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT03223526954ddff14",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL074837121e59b1cc9"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL074837122c09df28b"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL074837122bf9df7ba"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL074916113aaffe079"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-03-04T18:07:36.107Z"
+        },
+        "departmentId": "drawframefinisher",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "faults",
+        "moduleId": "pms",
+        "name": "pms_drawframefinisher_faults",
+        "roleId": "root",
+        "type": "faults",
+        "updatedAt": {
+            "$date": "2025-03-04T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT03223526962462e91",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL0748371215a23ff8c"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL07483712129885e3a"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL0748371210ab79648"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL0748371210fe8778e"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-03-04T18:07:36.107Z"
+        },
+        "departmentId": "drawframebreaker",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "faults",
+        "moduleId": "pms",
+        "name": "pms_drawframebreaker_faults",
+        "roleId": "root",
+        "type": "faults",
+        "updatedAt": {
+            "$date": "2025-03-04T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT0322352690bb2b818",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL074916113ad1f271e"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL074916113d083b566"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL0749161133bf7058d"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL074916113a59b0e55"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-03-04T18:07:36.107Z"
+        },
+        "departmentId": "lapformer",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "faults",
+        "moduleId": "pms",
+        "name": "pms_lapformer_faults",
+        "roleId": "root",
+        "type": "faults",
+        "updatedAt": {
+            "$date": "2025-03-04T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT032235269f9e8b9f1",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL074916113ef4f2f11"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL074916113936e2d65"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL07491611305df8091"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL0749161132b112bb0"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-03-04T18:07:36.107Z"
+        },
+        "departmentId": "comber",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "faults",
+        "moduleId": "pms",
+        "name": "pms_comber_faults",
+        "roleId": "root",
+        "type": "faults",
+        "updatedAt": {
+            "$date": "2025-03-04T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT03223526990bd2e08",
+        "columns": [
+            {
+                "sortOrder": 0,
+                "columnId": "COL074916113ca70f2fe"
+            },
+            {
+                "sortOrder": 1,
+                "columnId": "COL0749371221936c6fe"
+            },
+            {
+                "sortOrder": 2,
+                "columnId": "COL0749371229ccc2599"
+            },
+            {
+                "sortOrder": 3,
+                "columnId": "COL0749371225a7d5079"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-03-04T18:07:36.107Z"
+        },
+        "departmentId": "carding",
+        "isEditable": false,
+        "isPublicShared": false,
+        "metricsType": "faults",
+        "moduleId": "pms",
+        "name": "pms_carding_faults",
+        "roleId": "root",
+        "type": "faults",
+        "updatedAt": {
+            "$date": "2025-03-04T18:07:36.108Z"
+        },
+        "userId": "root"
+    },
+    {
+        "_id": "RPT14435336886f9d192",
+        "name": "IU",
+        "createdBy": "Admin",
+        "isPublicShared": false,
+        "isEditable": true,
+        "departmentId": "ringframe",
+        "metricsType": null,
+        "type": "shift",
+        "columns": [
+            {
+                "sortOrder": 7,
+                "columnId": "COL12021847878a708eb"
+            },
+            {
+                "sortOrder": 6,
+                "columnId": "COL120218477d88a1b76"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-03-26T09:13:53.370Z"
+        },
+        "updatedAt": {
+            "$date": "2025-03-26T09:13:53.370Z"
+        }
+    },
+    {
+        "_id": "RPT1820363179e4469aa",
+        "name": "Production Report",
+        "createdBy": "Admin",
+        "isPublicShared": false,
+        "isEditable": true,
+        "departmentId": "ringframe",
+        "metricsType": null,
+        "type": "shift",
+        "columns": [
+            {
+                "columnId": "COL120218477d88a1b76",
+                "sortOrder": 6
+            },
+            {
+                "columnId": "COL120218476ac5f14eb",
+                "sortOrder": 7
+            },
+            {
+                "columnId": "COL1202184766f99af26",
+                "sortOrder": 8
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-03-27T12:50:36.319Z"
+        },
+        "updatedAt": {
+            "$date": "2025-03-27T12:52:25.724Z"
+        },
+        "id": "RPT1820363179e4469aa"
+    },
+    {
+        "_id": "RPT15373285234f7441f",
+        "name": "New",
+        "createdBy": "Uatuser",
+        "isPublicShared": false,
+        "isEditable": true,
+        "departmentId": "ringframeybs",
+        "metricsType": null,
+        "type": "shift",
+        "columns": [
+            {
+                "sortOrder": 6,
+                "columnId": "COL14203379620493427"
+            },
+            {
+                "sortOrder": 7,
+                "columnId": "COL1420337960417599d"
+            },
+            {
+                "sortOrder": 8,
+                "columnId": "COL1420337958285159f"
+            },
+            {
+                "sortOrder": 9,
+                "columnId": "COL14203379554f061f5"
+            }
+        ],
+        "createdAt": {
+            "$date": "2025-04-01T10:07:32.854Z"
+        },
+        "updatedAt": {
+            "$date": "2025-04-01T10:07:32.854Z"
+        }
+    }
+]
