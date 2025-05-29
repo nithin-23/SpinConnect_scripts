@@ -16,5 +16,5 @@ def generate_id(prefix: str) -> str:
     return unique_id
 
 
-for i in range(2):
+for i in range(1):
     generate_id("COL")

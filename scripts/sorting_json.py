@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 # Define custom sort orders
-MODULE_ORDER = {'pms': 0, 'qms': 1}
+MODULE_ORDER = {'pms': 0, 'qms': 1, 'cms': 2}
 DEPARTMENT_ORDER = {
     'ringframe': 0,
     'ringframe_ybs': 1,
@@ -13,7 +13,7 @@ DEPARTMENT_ORDER = {
     'carding': 6,
     'lapformer': 7
 }
-TYPE_ORDER = {'shift': 0, 'doff': 1, 'stoppages': 2}
+TYPE_ORDER = {'shift': 0, 'doff': 1, 'stoppages': 2, 'hours': 3}
 
 # Define key orders for different file types
 COLUMN_JSON_KEY_ORDER = [
@@ -97,7 +97,7 @@ def process_json_file(input_file, output_file=None):
 
 
 if __name__ == "__main__":
-    input_filename = "columns.json"
+    input_filename = "reports.json"
     output_filename = "sorted_output.json"
 
     # Process the file
